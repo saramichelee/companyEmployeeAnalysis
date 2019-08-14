@@ -1,10 +1,12 @@
-# companyEmployeeAnalysis
+# Pewlett Hackard Company Analysis
 
-A full analysis on the company Pewlett Hackard. In depth analysis on employee salaries, titles, and departments.
+An in depth analysis of employee salaries, titles, and departments at Pewlett Hackard.
 
 ![DataFlowChart.png](DataFlowChart.png)
 
 Jupyter notebook used to join title and salary tables to analyze the average salary by title at Pewlett Hackard.
+
+![salary.png](salary.png)
 
 ## Tables were generated to show:
 1 - full list of employee number, last name, first name, gender, and salary.
