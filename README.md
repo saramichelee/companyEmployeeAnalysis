@@ -4,7 +4,7 @@ A full analysis on the company Pewlett Hackard. In depth analysis on employee sa
 
 Jupyter notebook used to join title and salary tables to analyze the average salary by title at Pewlett Hackard.
 
-##Tables were generated to show:
+## Tables were generated to show:
 1 - full list of employee number, last name, first name, gender, and salary.
 
 2 - employees hired in 1986.
