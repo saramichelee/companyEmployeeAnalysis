@@ -2,13 +2,15 @@
 
 An in depth analysis of employee salaries, titles, and departments at Pewlett Hackard.
 
+## Company database diagram
 ![DataFlowChart.png](DataFlowChart.png)
 
+## Average salary by title
 Jupyter notebook used to join title and salary tables to analyze the average salary by title at Pewlett Hackard.
 
 ![salary.png](salary.png)
 
-## Tables were generated to show:
+## SQL queries generated tables to show:
 1 - full list of employee number, last name, first name, gender, and salary.
 
 2 - employees hired in 1986.
