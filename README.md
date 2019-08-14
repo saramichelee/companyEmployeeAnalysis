@@ -2,18 +2,21 @@
 
 A full analysis on the company Pewlett Hackard. In depth analysis on employee salaries, titles, and departments.
 
+Jupyter notebook used to join title and salary tables to analyze the average salary by title at Pewlett Hackard.
+
+##Tables were generated to show:
 1 - full list of employee number, last name, first name, gender, and salary.
 
-List employees who were hired in 1986.
+2 - employees hired in 1986.
 
-List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name, and start and end employment dates.
+3 - the manager of each department with the date range of that position.
 
-List the department of each employee with the following information: employee number, last name, first name, and department name.
+4 - all employeess and their department.
 
-List all employees whose first name is "Hercules" and last names begin with "B."
+5 - all employees whose first name is "Hercules" and last names begin with "B" (surprising amount of Hercules at Pewlett Hackard)
 
-List all employees in the Sales department, including their employee number, last name, first name, and department name.
+6 - all employees in the Sales department.
 
-List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+7 - all employees in the Sales and Development departments.
 
-In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+8 - a count, in desceneding order, of all last names of employees at Pewlett Hackard.
